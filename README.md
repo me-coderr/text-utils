@@ -16,7 +16,7 @@ Edit
         Num of words
         Num of chars
 
-**Page Edit : **        
+**Page Edit :**        
 //usage of only 1 feature is allowed without login in both, page edit and page analyse
         Beautify
         Remove white spaces
