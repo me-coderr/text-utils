@@ -3,7 +3,7 @@
 **Nav bar** :
 text-utils          menu : About Contact LogIn SignUp
 
-**Page 1 : **
+**Page Index :**
 What do you wish to do with your text?
 Analyse
 Edit
