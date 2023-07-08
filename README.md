@@ -1,3 +1,46 @@
+# text-utils-app
+
+Nav bar :
+text-utils          menu : About Contact LogIn SignUp
+
+Page 1 : 
+What do you wish to do with your text?
+Analyse
+Edit
+
+Page Analyse :      //when user wishes to use any of the features, he/she is promted to log in / sign up
+        Most repeated word
+        Least used word
+        Misspelled words
+        Num of words
+        Num of chars
+
+Page Edit :         //usage of only 1 feature is allowed without login in both, page edit and page analyse
+        Beautify
+        Remove white spaces
+        Convert to lowercase
+        Convert to uppercase
+        Num of words
+        Num of chars
+
+About :
+        What this page does
+        Creator info and achievements
+
+Contact :
+        Filling this contact form will automatically email the owner of the page about your query/issue(s).
+        Functional contact form for email
+
+Log in :
+        Functional login form, used in menu and when the user tries to use more than one website functionality
+        After loggin in, the menu bar will be updated to : About Contact Logout
+
+Sign up :
+        Highlighted button
+        Used in menu and login form
+        Functional
+        
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
